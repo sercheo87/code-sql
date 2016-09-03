@@ -24,6 +24,11 @@
             "title": "Execute Script"
         }]
     },
+	"homepage": "https://github.com/sercheo87/code-sql/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sercheo87/code-sql.git"
+	},
     "scripts": {
         "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
         "compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
